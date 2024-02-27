@@ -64,7 +64,8 @@ class LoginPage extends StatelessWidget {
                   obscureText: true,
                   decoration: InputDecoration(
                     labelText: 'Email Address',
-                    suffixIcon: Icon(FontAwesomeIcons.envelope,
+                    suffixIcon: Icon(FontAwesomeIcons.envelope
+                    ,
                     size: 17,) 
                   )
                   
